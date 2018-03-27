@@ -1,0 +1,5 @@
+/media/hdd/ 192.168.0.0/255.255.0.0(rw,no_root_squash,sync,no_subtree_check)
+/media/hdd2/ 192.168.0.0/255.255.0.0(rw,no_root_squash,sync,no_subtree_check)
+/media/usb/ 192.168.0.0/255.255.0.0(rw,no_root_squash,sync,no_subtree_check)
+/media/usb2/ 192.168.0.0/255.255.0.0(rw,no_root_squash,sync,no_subtree_check)
+/media/cf/ 192.168.0.0/255.255.0.0(rw,no_root_squash,sync,no_subtree_check)
